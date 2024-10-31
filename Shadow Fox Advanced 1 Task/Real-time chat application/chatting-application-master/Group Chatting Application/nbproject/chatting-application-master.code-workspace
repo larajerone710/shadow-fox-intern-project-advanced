@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Project File-20241015T163327Z-001"
+		},
+		{
+			"path": "../../../../icons-20241015T163247Z-001/icons"
+		},
+		{
+			"path": "../../../../Group Chatting Icons-20241015T163234Z-001/Group Chatting Icons"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chatting-application-master"
+	}
+}
